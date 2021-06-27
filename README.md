@@ -7,6 +7,6 @@ We employed two ML models, extreme gradient boosting (XGBoost) and a two-layer C
 
 <br />
 <p align="center">
-  <img src="https://github.com/fernandotcbarreto/stuff/blob/main/wave_for_ML.png">
+  <img src="https://github.com/fernandotcbarreto/stuff/blob/main/ml_fig_4comp.png">
 </p>
 Figure 1 - Predicted results (solid lines) from XGBoost and CNN, and buoy data (dashed line) from 01-06-06-2021 to 18-06-2021. 
